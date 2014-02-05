@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-02-05T09:17:35+09:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Jane Doe]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test5]]></title>
+    <link href="http://yoursite.com/blog/2014/02/05/test5/"/>
+    <updated>2014-02-05T09:17:07+09:00</updated>
+    <id>http://yoursite.com/blog/2014/02/05/test5</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test4]]></title>
+    <link href="http://yoursite.com/blog/2014/02/05/test4/"/>
+    <updated>2014-02-05T09:17:06+09:00</updated>
+    <id>http://yoursite.com/blog/2014/02/05/test4</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test3]]></title>
+    <link href="http://yoursite.com/blog/2014/02/05/test3/"/>
+    <updated>2014-02-05T09:17:03+09:00</updated>
+    <id>http://yoursite.com/blog/2014/02/05/test3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://yoursite.com/blog/2014/02/05/test/"/>
+    <updated>2014-02-05T09:15:58+09:00</updated>
+    <id>http://yoursite.com/blog/2014/02/05/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://yoursite.com/blog/2014/02/05/test-post/"/>
+    <updated>2014-02-05T09:12:04+09:00</updated>
+    <id>http://yoursite.com/blog/2014/02/05/test-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Post Title]]></title>
+    <link href="http://yoursite.com/blog/2014/02/04/post-title/"/>
+    <updated>2014-02-04T07:26:52+09:00</updated>
+    <id>http://yoursite.com/blog/2014/02/04/post-title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
